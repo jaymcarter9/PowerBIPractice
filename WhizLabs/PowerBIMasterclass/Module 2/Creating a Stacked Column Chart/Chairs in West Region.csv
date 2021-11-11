@@ -1,0 +1,208 @@
+﻿Sub-Category,Region,Sales,Order ID,Ship Mode,Customer ID,Customer Name,Segment,Country/Region,City,State,Product ID,Category,Product Name
+Chairs,West,40.784,US-2018-139759,Standard Class,NL-18310,Nancy Lomonaco,Home Office,United States,Los Angeles,California,FUR-CH-10002774,Furniture,"Global Deluxe Stacking Chair, Gray"
+Chairs,West,41.568000000000005,CA-2019-137204,Standard Class,BO-11350,Bill Overfelt,Corporate,United States,Los Angeles,California,FUR-CH-10002304,Furniture,"Global Stack Chair without Arms, Black"
+Chairs,West,42.624,US-2020-110604,Standard Class,JF-15295,Jason Fortune-,Consumer,United States,Seattle,Washington,FUR-CH-10002017,Furniture,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair
+Chairs,West,47.968,CA-2019-109827,Standard Class,LW-16825,Laurel Workman,Corporate,United States,Phoenix,Arizona,FUR-CH-10004754,Furniture,"Global Stack Chair with Arms, Black"
+Chairs,West,48.712,CA-2017-156587,First Class,AB-10015,Aaron Bergman,Consumer,United States,Seattle,Washington,FUR-CH-10004477,Furniture,"Global Push Button Manager's Chair, Indigo"
+Chairs,West,61.584,CA-2018-154970,Standard Class,SR-20740,Steven Roelle,Home Office,United States,Seattle,Washington,FUR-CH-10003396,Furniture,Global Deluxe Steno Chair
+Chairs,West,63.93600000000001,CA-2018-137302,Standard Class,BW-11110,Bart Watters,Corporate,United States,San Diego,California,FUR-CH-10002017,Furniture,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair
+Chairs,West,71.992,CA-2020-123491,Standard Class,JK-15205,Jamie Kunitz,Consumer,United States,San Francisco,California,FUR-CH-10003061,Furniture,"Global Leather Task Chair, Black"
+Chairs,West,72.784,CA-2020-140186,First Class,PG-18820,Patrick Gardner,Consumer,United States,Bakersfield,California,FUR-CH-10002961,Furniture,"Leather Task Chair, Black"
+Chairs,West,81.424,CA-2019-146325,First Class,DS-13180,David Smith,Corporate,United States,San Diego,California,FUR-CH-10001146,Furniture,"Global Task Chair, Black"
+Chairs,West,81.424,US-2019-125969,Second Class,LS-16975,Lindsay Shagiari,Home Office,United States,Los Angeles,California,FUR-CH-10001146,Furniture,"Global Task Chair, Black"
+Chairs,West,81.568,CA-2020-137428,Second Class,AY-10555,Andy Yotov,Corporate,United States,Oceanside,California,FUR-CH-10002774,Furniture,"Global Deluxe Stacking Chair, Gray"
+Chairs,West,83.13600000000001,CA-2019-151148,Same Day,PO-19180,Philisse Overcash,Home Office,United States,Louisville,Colorado,FUR-CH-10002304,Furniture,"Global Stack Chair without Arms, Black"
+Chairs,West,97.18400000000001,CA-2020-137428,Second Class,AY-10555,Andy Yotov,Corporate,United States,Oceanside,California,FUR-CH-10003817,Furniture,"Global Value Steno Chair, Gray"
+Chairs,West,97.568,CA-2018-100146,Standard Class,CB-12535,Claudia Bergmann,Corporate,United States,Camarillo,California,FUR-CH-10003833,Furniture,Novimex Fabric Task Chair
+Chairs,West,97.568,CA-2020-142622,First Class,JK-15625,Jim Karlsson,Consumer,United States,Seattle,Washington,FUR-CH-10003833,Furniture,Novimex Fabric Task Chair
+Chairs,West,104.78399999999999,CA-2019-163328,Second Class,TP-21565,Tracy Poddar,Corporate,United States,Eugene,Oregon,FUR-CH-10003298,Furniture,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal"
+Chairs,West,108.608,CA-2020-129378,First Class,NS-18505,Neola Schneider,Consumer,United States,San Jose,California,FUR-CH-10000553,Furniture,"Metal Folding Chairs, Beige, 4/Carton"
+Chairs,West,112.64800000000001,CA-2017-105270,Standard Class,AP-10915,Arthur Prichep,Consumer,United States,Los Angeles,California,FUR-CH-10000988,Furniture,Hon Olson Stacker Stools
+Chairs,West,113.56800000000001,CA-2020-117457,Standard Class,KH-16510,Keith Herrera,Consumer,United States,San Francisco,California,FUR-CH-10003956,Furniture,Novimex High-Tech Fabric Mesh Task Chair
+Chairs,West,113.88800000000002,CA-2019-144092,Second Class,LH-17155,Logan Haushalter,Consumer,United States,San Jose,California,FUR-CH-10004875,Furniture,Harbour Creations 67200 Series Stacking Chairs
+Chairs,West,113.88800000000002,CA-2019-159730,Standard Class,SJ-20125,Sanjit Jacobs,Home Office,United States,Seattle,Washington,FUR-CH-10004875,Furniture,Harbour Creations 67200 Series Stacking Chairs
+Chairs,West,113.88800000000002,CA-2020-134915,Same Day,EM-14140,Eugene Moren,Home Office,United States,Glendale,Arizona,FUR-CH-10004875,Furniture,Harbour Creations 67200 Series Stacking Chairs
+Chairs,West,120.71199999999999,CA-2017-102295,Second Class,EH-13990,Erica Hackney,Consumer,United States,Sacramento,California,FUR-CH-10001714,Furniture,"Global Leather & Oak Executive Chair, Burgundy"
+Chairs,West,120.78399999999999,CA-2019-157707,First Class,CC-12610,Corey Catlett,Corporate,United States,Denver,Colorado,FUR-CH-10004853,Furniture,"Global Manager's Adjustable Task Chair, Storm"
+Chairs,West,120.78399999999999,CA-2020-112725,Standard Class,EH-14125,Eugene Hildebrand,Home Office,United States,San Francisco,California,FUR-CH-10000863,Furniture,Novimex Swivel Fabric Task Chair
+Chairs,West,122.13600000000001,US-2020-101784,Standard Class,PO-18850,Patrick O'Brill,Consumer,United States,Los Angeles,California,FUR-CH-10001146,Furniture,"Global Task Chair, Black"
+Chairs,West,122.352,CA-2017-140403,Same Day,TN-21040,Tanja Norvell,Home Office,United States,Manteca,California,FUR-CH-10002774,Furniture,"Global Deluxe Stacking Chair, Gray"
+Chairs,West,122.352,CA-2017-157882,Second Class,AR-10405,Allen Rosenblatt,Corporate,United States,Los Angeles,California,FUR-CH-10002774,Furniture,"Global Deluxe Stacking Chair, Gray"
+Chairs,West,122.352,CA-2019-122448,Standard Class,DB-13210,Dean Braden,Consumer,United States,San Francisco,California,FUR-CH-10002774,Furniture,"Global Deluxe Stacking Chair, Gray"
+Chairs,West,123.136,CA-2017-131310,Standard Class,CL-12565,Clay Ludtke,Consumer,United States,Seattle,Washington,FUR-CH-10001797,Furniture,"Safco Chair Connectors, 6/Carton"
+Chairs,West,129.568,US-2017-110674,Standard Class,SC-20095,Sanjit Chand,Consumer,United States,Concord,California,FUR-CH-10000225,Furniture,"Global Geo Office Task Chair, Gray"
+Chairs,West,129.568,US-2018-146745,Standard Class,AS-10630,Ann Steele,Home Office,United States,San Francisco,California,FUR-CH-10002372,Furniture,Office Star - Ergonomically Designed Knee Chair
+Chairs,West,144.784,CA-2018-168564,Same Day,TT-21220,Thomas Thornton,Consumer,United States,San Francisco,California,FUR-CH-10000785,Furniture,Global Ergonomic Managers Chair
+Chairs,West,145.568,US-2017-151925,Second Class,KT-16465,Kean Takahito,Consumer,United States,Los Angeles,California,FUR-CH-10002961,Furniture,"Leather Task Chair, Black"
+Chairs,West,146.352,CA-2017-106439,Standard Class,GG-14650,Greg Guthrie,Corporate,United States,Los Angeles,California,FUR-CH-10003833,Furniture,Novimex Fabric Task Chair
+Chairs,West,146.352,CA-2019-129868,Standard Class,MC-18130,Mike Caudle,Corporate,United States,Los Angeles,California,FUR-CH-10003535,Furniture,"Global Armless Task Chair, Royal Blue"
+Chairs,West,153.568,US-2019-167339,Second Class,TD-20995,Tamara Dahlen,Consumer,United States,San Diego,California,FUR-CH-10004289,Furniture,Global Super Steno Chair
+Chairs,West,161.568,CA-2019-141397,First Class,RC-19825,Roy Collins,Consumer,United States,Pasadena,California,FUR-CH-10003846,Furniture,Hon Valutask Swivel Chairs
+Chairs,West,161.568,US-2020-142573,Standard Class,ML-17410,Maris LaWare,Consumer,United States,Phoenix,Arizona,FUR-CH-10004218,Furniture,"Global Fabric Manager's Chair, Dark Gray"
+Chairs,West,161.568,US-2020-150070,Standard Class,JA-15970,Joseph Airdo,Consumer,United States,Modesto,California,FUR-CH-10004860,Furniture,Global Low Back Tilter Chair
+Chairs,West,167.888,CA-2019-118899,Same Day,MC-17275,Marc Crier,Consumer,United States,Seattle,Washington,FUR-CH-10004754,Furniture,"Global Stack Chair with Arms, Black"
+Chairs,West,170.35200000000003,CA-2018-161627,Standard Class,SJ-20215,Sarah Jordon,Consumer,United States,Pasadena,California,FUR-CH-10003968,Furniture,Novimex Turbo Task Chair
+Chairs,West,170.35200000000003,CA-2020-123085,Standard Class,EJ-13720,Ed Jacobs,Consumer,United States,Los Angeles,California,FUR-CH-10003968,Furniture,Novimex Turbo Task Chair
+Chairs,West,177.568,US-2020-142188,Same Day,JF-15415,Jennifer Ferguson,Consumer,United States,Seattle,Washington,FUR-CH-10003199,Furniture,Office Star - Contemporary Task Swivel Chair
+Chairs,West,184.752,CA-2018-102316,Second Class,DH-13075,Dave Hallsten,Corporate,United States,Los Angeles,California,FUR-CH-10003396,Furniture,Global Deluxe Steno Chair
+Chairs,West,184.752,CA-2019-159009,Standard Class,DP-13105,Dave Poirier,Corporate,United States,Seattle,Washington,FUR-CH-10003396,Furniture,Global Deluxe Steno Chair
+Chairs,West,184.752,US-2020-163300,Standard Class,ES-14020,Erica Smith,Consumer,United States,Los Angeles,California,FUR-CH-10003396,Furniture,Global Deluxe Steno Chair
+Chairs,West,190.72000000000003,CA-2018-102848,Second Class,KB-16240,Karen Bern,Corporate,United States,Los Angeles,California,FUR-CH-10000595,Furniture,Safco Contoured Stacking Chairs
+Chairs,West,191.96800000000002,CA-2018-132486,Second Class,JF-15355,Jay Fein,Consumer,United States,San Diego,California,FUR-CH-10004540,Furniture,Global Chrome Stack Chair
+Chairs,West,191.96800000000002,CA-2018-135727,Second Class,PS-18970,Paul Stevenson,Home Office,United States,Phoenix,Arizona,FUR-CH-10004540,Furniture,Global Chrome Stack Chair
+Chairs,West,194.35200000000003,CA-2019-113341,Standard Class,MH-17455,Mark Hamilton,Consumer,United States,Los Angeles,California,FUR-CH-10004698,Furniture,"Padded Folding Chairs, Black, 4/Carton"
+Chairs,West,194.35200000000003,CA-2019-163594,First Class,JF-15295,Jason Fortune-,Consumer,United States,Los Angeles,California,FUR-CH-10000225,Furniture,"Global Geo Office Task Chair, Gray"
+Chairs,West,194.848,CA-2019-157686,First Class,BD-11620,Brian DeCherney,Consumer,United States,San Francisco,California,FUR-CH-10001146,Furniture,"Global Value Mid-Back Manager's Chair, Gray"
+Chairs,West,195.136,US-2017-164406,Standard Class,BD-11605,Brian Dahlen,Consumer,United States,San Francisco,California,FUR-CH-10003833,Furniture,Novimex Fabric Task Chair
+Chairs,West,195.136,US-2019-114293,Standard Class,JH-16180,Justin Hirsh,Consumer,United States,Gresham,Oregon,FUR-CH-10003833,Furniture,Novimex Fabric Task Chair
+Chairs,West,195.184,CA-2019-149314,Second Class,GB-14530,George Bell,Corporate,United States,Los Angeles,California,FUR-CH-10002126,Furniture,Hon Deluxe Fabric Upholstered Stacking Chairs
+Chairs,West,196.784,CA-2019-124793,First Class,MM-18280,Muhammed MacIntyre,Corporate,United States,Seattle,Washington,FUR-CH-10002880,Furniture,"Global High-Back Leather Tilter, Burgundy"
+Chairs,West,203.92,CA-2018-146038,Standard Class,SJ-20215,Sarah Jordon,Consumer,United States,Los Angeles,California,FUR-CH-10002774,Furniture,"Global Deluxe Stacking Chair, Gray"
+Chairs,West,207.18400000000003,CA-2020-156776,Standard Class,JL-15505,Jeremy Lonsdale,Consumer,United States,Westminster,California,FUR-CH-10002317,Furniture,Global Enterprise Series Seating Low-Back Swivel/Tilt Chairs
+Chairs,West,215.976,CA-2019-106278,Second Class,BM-11140,Becky Martin,Consumer,United States,Des Moines,Washington,FUR-CH-10003061,Furniture,"Global Leather Task Chair, Black"
+Chairs,West,215.976,CA-2020-111388,Same Day,SU-20665,Stephanie Ulpright,Home Office,United States,Seattle,Washington,FUR-CH-10003061,Furniture,"Global Leather Task Chair, Black"
+Chairs,West,215.976,CA-2020-158246,First Class,JB-15400,Jennifer Braxton,Corporate,United States,Sunnyvale,California,FUR-CH-10003061,Furniture,"Global Leather Task Chair, Black"
+Chairs,West,217.58400000000003,CA-2019-114972,First Class,PF-19225,Phillip Flathmann,Consumer,United States,Los Angeles,California,FUR-CH-10001190,Furniture,Global Deluxe High-Back Office Chair in Storm
+Chairs,West,218.35200000000003,CA-2020-128965,Standard Class,PS-18760,Pamela Stobb,Consumer,United States,Los Angeles,California,FUR-CH-10003774,Furniture,"Global Wood Trimmed Manager's Task Chair, Khaki"
+Chairs,West,218.35200000000003,US-2020-116652,Standard Class,RD-19480,Rick Duston,Consumer,United States,San Francisco,California,FUR-CH-10002961,Furniture,"Leather Task Chair, Black"
+Chairs,West,220.96,US-2020-110604,Standard Class,JF-15295,Jason Fortune-,Consumer,United States,Seattle,Washington,FUR-CH-10004287,Furniture,SAFCO Arco Folding Chair
+Chairs,West,225.29600000000002,CA-2017-158029,Standard Class,HF-14995,Herbert Flentye,Consumer,United States,Los Angeles,California,FUR-CH-10000988,Furniture,Hon Olson Stacker Stools
+Chairs,West,225.29600000000002,CA-2020-145429,Standard Class,SW-20455,Shaun Weien,Consumer,United States,San Diego,California,FUR-CH-10000988,Furniture,Hon Olson Stacker Stools
+Chairs,West,225.56799999999998,CA-2018-126725,Standard Class,BS-11665,Brian Stugart,Consumer,United States,San Diego,California,FUR-CH-10001708,Furniture,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back
+Chairs,West,230.28000000000003,CA-2017-147298,Standard Class,AG-10300,Aleksandra Gannaway,Corporate,United States,Los Angeles,California,FUR-CH-10004886,Furniture,Bevis Steel Folding Chairs
+Chairs,West,230.28000000000003,CA-2020-161956,Second Class,DR-12880,Dan Reichenbach,Corporate,United States,Inglewood,California,FUR-CH-10004886,Furniture,Bevis Steel Folding Chairs
+Chairs,West,230.28000000000003,US-2017-106334,Standard Class,JF-15490,Jeremy Farry,Consumer,United States,San Francisco,California,FUR-CH-10004886,Furniture,Bevis Steel Folding Chairs
+Chairs,West,230.28000000000003,US-2019-168095,Standard Class,MC-17425,Mark Cousins,Corporate,United States,Portland,Oregon,FUR-CH-10004886,Furniture,Bevis Steel Folding Chairs
+Chairs,West,230.35200000000003,CA-2017-111451,First Class,KL-16555,Kelly Lampkin,Corporate,United States,Colorado Springs,Colorado,FUR-CH-10001891,Furniture,Global Deluxe Office Fabric Chairs
+Chairs,West,230.35200000000003,CA-2018-123141,Standard Class,GZ-14470,Gary Zandusky,Consumer,United States,Rio Rancho,New Mexico,FUR-CH-10001891,Furniture,Global Deluxe Office Fabric Chairs
+Chairs,West,232.88,CA-2017-125150,Standard Class,PW-19030,Pauline Webber,Corporate,United States,Los Angeles,California,FUR-CH-10002439,Furniture,"Iceberg Nesting Folding Chair, 19w x 6d x 43h"
+Chairs,West,240.78400000000002,CA-2018-132486,Second Class,JF-15355,Jay Fein,Consumer,United States,San Diego,California,FUR-CH-10004495,Furniture,"Global Leather and Oak Executive Chair, Black"
+Chairs,West,241.42399999999998,CA-2020-137624,Standard Class,ME-17320,Maria Etezadi,Home Office,United States,Los Angeles,California,FUR-CH-10001714,Furniture,"Global Leather & Oak Executive Chair, Burgundy"
+Chairs,West,241.56799999999998,CA-2017-136399,First Class,CC-12100,Chad Cunningham,Home Office,United States,Los Angeles,California,FUR-CH-10002602,Furniture,DMI Arturo Collection Mission-style Design Wood Chair
+Chairs,West,241.56799999999998,CA-2019-126158,Standard Class,SC-20095,Sanjit Chand,Consumer,United States,Costa Mesa,California,FUR-CH-10002602,Furniture,DMI Arturo Collection Mission-style Design Wood Chair
+Chairs,West,242.13600000000002,CA-2019-161746,Standard Class,CS-11950,Carlos Soltero,Consumer,United States,Los Angeles,California,FUR-CH-10004626,Furniture,Office Star Flex Back Scooter Chair with Aluminum Finish Frame
+Chairs,West,242.35200000000003,CA-2017-138681,First Class,CT-11995,Carol Triggs,Consumer,United States,Tucson,Arizona,FUR-CH-10004860,Furniture,Global Low Back Tilter Chair
+Chairs,West,243.92,CA-2020-137498,Second Class,LC-17050,Liz Carlisle,Consumer,United States,Los Angeles,California,FUR-CH-10003833,Furniture,Novimex Fabric Task Chair
+Chairs,West,256.78400000000005,CA-2017-103310,Standard Class,GM-14680,Greg Matthias,Consumer,United States,San Jose,California,FUR-CH-10002320,Furniture,Hon Pagoda Stacking Chairs
+Chairs,West,259.136,CA-2017-123295,Same Day,AH-10120,Adrian Hane,Home Office,United States,Tucson,Arizona,FUR-CH-10002372,Furniture,Office Star - Ergonomically Designed Knee Chair
+Chairs,West,266.35200000000003,CA-2018-127754,Standard Class,CK-12760,Cyma Kinney,Corporate,United States,Glendale,Arizona,FUR-CH-10003199,Furniture,Office Star - Contemporary Task Swivel Chair
+Chairs,West,279.456,CA-2017-113768,Standard Class,AH-10030,Aaron Hawkins,Corporate,United States,Los Angeles,California,FUR-CH-10002439,Furniture,"Iceberg Nesting Folding Chair, 19w x 6d x 43h"
+Chairs,West,280.79200000000003,US-2020-120418,First Class,BC-11125,Becky Castell,Home Office,United States,Peoria,Arizona,FUR-CH-10001394,Furniture,Global Leather Executive Chair
+Chairs,West,283.92,CA-2018-101910,Standard Class,CD-11920,Carlos Daly,Consumer,United States,Lake Elsinore,California,FUR-CH-10002647,Furniture,"Situations Contoured Folding Chairs, 4/Set"
+Chairs,West,283.92,US-2020-110996,Standard Class,KA-16525,Kelly Andreada,Consumer,United States,Ontario,California,FUR-CH-10003956,Furniture,Novimex High-Tech Fabric Mesh Task Chair
+Chairs,West,287.968,CA-2019-135265,Second Class,CC-12370,Christopher Conant,Consumer,United States,Los Angeles,California,FUR-CH-10003061,Furniture,"Global Leather Task Chair, Black"
+Chairs,West,291.136,CA-2020-104850,Standard Class,TW-21025,Tamara Willingham,Home Office,United States,Seattle,Washington,FUR-CH-10003774,Furniture,"Global Wood Trimmed Manager's Task Chair, Khaki"
+Chairs,West,291.168,CA-2018-133445,Standard Class,JF-15490,Jeremy Farry,Consumer,United States,Portland,Oregon,FUR-CH-10000422,Furniture,Global Highback Leather Tilter in Burgundy
+Chairs,West,292.27200000000005,US-2017-167738,Standard Class,JC-16105,Julie Creighton,Corporate,United States,Los Angeles,California,FUR-CH-10001146,Furniture,"Global Value Mid-Back Manager's Chair, Gray"
+Chairs,West,307.136,CA-2018-149083,Standard Class,SH-19975,Sally Hughsby,Corporate,United States,Seattle,Washington,FUR-CH-10004289,Furniture,Global Super Steno Chair
+Chairs,West,307.136,CA-2020-142636,Standard Class,KC-16675,Kimberly Carter,Corporate,United States,Seattle,Washington,FUR-CH-10001891,Furniture,Global Deluxe Office Fabric Chairs
+Chairs,West,307.92,US-2019-159856,Standard Class,EP-13915,Emily Phan,Consumer,United States,Tempe,Arizona,FUR-CH-10003396,Furniture,Global Deluxe Steno Chair
+Chairs,West,311.97600000000006,US-2020-142573,Standard Class,ML-17410,Maris LaWare,Consumer,United States,Phoenix,Arizona,FUR-CH-10000513,Furniture,High-Back Leather Manager's Chair
+Chairs,West,314.352,CA-2017-148040,Standard Class,BF-11275,Beth Fritzler,Corporate,United States,Tucson,Arizona,FUR-CH-10001482,Furniture,Office Star - Mesh Screen back chair with Vinyl seat
+Chairs,West,321.568,CA-2019-154739,Second Class,LH-17155,Logan Haushalter,Consumer,United States,San Francisco,California,FUR-CH-10002965,Furniture,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black"
+Chairs,West,321.568,CA-2020-152142,Standard Class,LW-16990,Lindsay Williams,Corporate,United States,San Francisco,California,FUR-CH-10002965,Furniture,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black"
+Chairs,West,323.136,CA-2018-164882,Same Day,SG-20080,Sandra Glassco,Consumer,United States,Redlands,California,FUR-CH-10004218,Furniture,"Global Fabric Manager's Chair, Dark Gray"
+Chairs,West,338.352,US-2017-112991,Standard Class,SH-19975,Sally Hughsby,Corporate,United States,Caldwell,Idaho,FUR-CH-10001708,Furniture,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back
+Chairs,West,340.14400000000006,CA-2017-118962,Standard Class,CS-12130,Chad Sievert,Consumer,United States,Los Angeles,California,FUR-CH-10003817,Furniture,"Global Value Steno Chair, Gray"
+Chairs,West,340.70400000000006,CA-2020-101322,First Class,JG-15310,Jason Gross,Corporate,United States,Long Beach,California,FUR-CH-10003968,Furniture,Novimex Turbo Task Chair
+Chairs,West,348.92800000000005,CA-2018-154620,Standard Class,LT-17110,Liz Thompson,Consumer,United States,Lancaster,California,FUR-CH-10004675,Furniture,"Lifetime Advantage Folding Chairs, 4/Carton"
+Chairs,West,362.13599999999997,CA-2018-132388,First Class,KN-16390,Katherine Nockton,Corporate,United States,Santa Barbara,California,FUR-CH-10001714,Furniture,"Global Leather & Oak Executive Chair, Burgundy"
+Chairs,West,362.352,CA-2020-128370,Same Day,FH-14275,Frank Hawley,Corporate,United States,Los Angeles,California,FUR-CH-10002602,Furniture,DMI Arturo Collection Mission-style Design Wood Chair
+Chairs,West,362.352,US-2020-167318,Standard Class,GZ-14545,George Zrebassa,Corporate,United States,Los Angeles,California,FUR-CH-10000665,Furniture,"Global Airflow Leather Mesh Back Chair, Black"
+Chairs,West,363.92,CA-2019-165330,Same Day,WB-21850,William Brown,Consumer,United States,Anaheim,California,FUR-CH-10003774,Furniture,"Global Wood Trimmed Manager's Task Chair, Khaki"
+Chairs,West,381.44000000000005,US-2017-157385,First Class,SC-20095,Sanjit Chand,Consumer,United States,Los Angeles,California,FUR-CH-10000595,Furniture,Safco Contoured Stacking Chairs
+Chairs,West,383.8,CA-2019-148796,Standard Class,PB-19150,Philip Brown,Consumer,United States,Los Angeles,California,FUR-CH-10004886,Furniture,Bevis Steel Folding Chairs
+Chairs,West,387.136,CA-2019-139549,Standard Class,MY-18295,Muhammed Yedwab,Corporate,United States,El Cajon,California,FUR-CH-10001802,Furniture,Hon Every-Day Chair Series Swivel Task Chairs
+Chairs,West,388.70400000000006,CA-2020-121489,Second Class,CM-11815,Candace McMahon,Corporate,United States,Seattle,Washington,FUR-CH-10004698,Furniture,"Padded Folding Chairs, Black, 4/Carton"
+Chairs,West,393.568,CA-2020-118885,Standard Class,JG-15160,James Galang,Consumer,United States,Los Angeles,California,FUR-CH-10002880,Furniture,"Global High-Back Leather Tilter, Burgundy"
+Chairs,West,403.92,CA-2019-143609,First Class,DB-13270,Deborah Brumfield,Home Office,United States,Portland,Oregon,FUR-CH-10004218,Furniture,"Global Fabric Manager's Chair, Dark Gray"
+Chairs,West,433.56800000000004,CA-2017-157924,First Class,HA-14920,Helen Andreada,Consumer,United States,Pasadena,California,FUR-CH-10000229,Furniture,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs
+Chairs,West,435.16800000000006,CA-2020-131807,Standard Class,GG-14650,Greg Guthrie,Corporate,United States,Chico,California,FUR-CH-10001190,Furniture,Global Deluxe High-Back Office Chair in Storm
+Chairs,West,435.16800000000006,US-2019-166660,Second Class,TB-21250,Tim Brockman,Consumer,United States,Seattle,Washington,FUR-CH-10001190,Furniture,Global Deluxe High-Back Office Chair in Storm
+Chairs,West,436.70400000000006,CA-2017-104563,Standard Class,CM-12715,Craig Molinari,Corporate,United States,Seattle,Washington,FUR-CH-10002780,Furniture,Office Star - Task Chair with Contemporary Loop Arms
+Chairs,West,436.70400000000006,CA-2020-135076,Standard Class,YS-21880,Yana Sorensen,Corporate,United States,Hesperia,California,FUR-CH-10003774,Furniture,"Global Wood Trimmed Manager's Task Chair, Khaki"
+Chairs,West,441.92,CA-2018-143364,Second Class,TG-21310,Toby Gnade,Consumer,United States,Mesa,Arizona,FUR-CH-10004287,Furniture,SAFCO Arco Folding Chair
+Chairs,West,449.56800000000004,CA-2020-107174,Standard Class,AB-10060,Adam Bellavance,Home Office,United States,Seattle,Washington,FUR-CH-10003312,Furniture,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs
+Chairs,West,451.15199999999993,CA-2019-116722,Standard Class,LP-17080,Liz Pelletier,Consumer,United States,San Francisco,California,FUR-CH-10004997,Furniture,Hon Every-Day Series Multi-Task Chairs
+Chairs,West,451.15199999999993,CA-2020-156951,Standard Class,EB-13840,Ellis Ballard,Corporate,United States,Seattle,Washington,FUR-CH-10004997,Furniture,Hon Every-Day Series Multi-Task Chairs
+Chairs,West,454.27200000000005,CA-2018-149650,First Class,RD-19660,Robert Dilbeck,Home Office,United States,Oakland,California,FUR-CH-10003956,Furniture,Novimex High-Tech Fabric Mesh Task Chair
+Chairs,West,457.56800000000004,CA-2017-104269,Second Class,DB-13060,Dave Brooks,Consumer,United States,Seattle,Washington,FUR-CH-10004063,Furniture,Global Deluxe High-Back Manager's Chair
+Chairs,West,466.76800000000003,CA-2019-142902,Second Class,BP-11185,Ben Peterman,Corporate,United States,Arvada,Colorado,FUR-CH-10004086,Furniture,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs
+Chairs,West,478.48,CA-2017-147543,Standard Class,BC-11125,Becky Castell,Home Office,United States,El Cajon,California,FUR-CH-10000155,Furniture,Global Comet Stacking Armless Chair
+Chairs,West,478.48,CA-2020-167094,First Class,DK-12835,Damala Kotsonis,Corporate,United States,Springfield,Oregon,FUR-CH-10000155,Furniture,Global Comet Stacking Armless Chair
+Chairs,West,481.56800000000004,CA-2017-104563,Standard Class,CM-12715,Craig Molinari,Corporate,United States,Seattle,Washington,FUR-CH-10004495,Furniture,"Global Leather and Oak Executive Chair, Black"
+Chairs,West,483.13599999999997,CA-2019-107146,First Class,LC-16885,Lena Creighton,Consumer,United States,Longmont,Colorado,FUR-CH-10004853,Furniture,"Global Manager's Adjustable Task Chair, Storm"
+Chairs,West,483.13599999999997,US-2019-125402,Standard Class,DL-12865,Dan Lawera,Consumer,United States,Long Beach,California,FUR-CH-10000665,Furniture,"Global Airflow Leather Mesh Back Chair, Black"
+Chairs,West,484.70400000000006,CA-2019-148852,Standard Class,SV-20785,Stewart Visinsky,Consumer,United States,Santa Ana,California,FUR-CH-10004860,Furniture,Global Low Back Tilter Chair
+Chairs,West,518.272,CA-2020-166695,Standard Class,CC-12430,Chuck Clark,Home Office,United States,Lakewood,California,FUR-CH-10000225,Furniture,"Global Geo Office Task Chair, Gray"
+Chairs,West,523.392,CA-2020-119494,Standard Class,JE-15610,Jim Epp,Corporate,United States,San Diego,California,FUR-CH-10004675,Furniture,"Lifetime Advantage Folding Chairs, 4/Carton"
+Chairs,West,532.7040000000001,CA-2019-150350,Standard Class,MS-17770,Maxwell Schwartz,Consumer,United States,Seattle,Washington,FUR-CH-10001973,Furniture,Office Star Flex Back Scooter Chair with White Frame
+Chairs,West,544.008,CA-2018-144267,First Class,NZ-18565,Nick Zandusky,Home Office,United States,San Francisco,California,FUR-CH-10002335,Furniture,Hon GuestStacker Chair
+Chairs,West,544.008,CA-2019-114727,Standard Class,LS-16945,Linda Southworth,Corporate,United States,Denver,Colorado,FUR-CH-10002335,Furniture,Hon GuestStacker Chair
+Chairs,West,561.5680000000001,CA-2018-148635,Second Class,MH-18025,Michelle Huthwaite,Consumer,United States,Seattle,Washington,FUR-CH-10001854,Furniture,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat
+Chairs,West,563.24,CA-2019-100944,Standard Class,EH-13765,Edward Hooks,Corporate,United States,Los Angeles,California,FUR-CH-10000988,Furniture,Hon Olson Stacker Stools
+Chairs,West,563.92,CA-2019-118332,Standard Class,PK-19075,Pete Kriz,Consumer,United States,Apple Valley,California,FUR-CH-10001708,Furniture,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back
+Chairs,West,569.5680000000001,CA-2020-154074,Second Class,BW-11110,Bart Watters,Corporate,United States,Spokane,Washington,FUR-CH-10002331,Furniture,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms
+Chairs,West,572.1600000000001,CA-2017-154893,Standard Class,GM-14440,Gary McGarr,Consumer,United States,San Diego,California,FUR-CH-10000595,Furniture,Safco Contoured Stacking Chairs
+Chairs,West,572.1600000000001,CA-2018-124058,Standard Class,LC-16885,Lena Creighton,Consumer,United States,Oakland,California,FUR-CH-10000595,Furniture,Safco Contoured Stacking Chairs
+Chairs,West,579.136,CA-2020-130141,Second Class,HA-14905,Helen Abelman,Consumer,United States,Fort Collins,Colorado,FUR-CH-10000749,Furniture,Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms
+Chairs,West,582.336,CA-2018-130848,Same Day,DG-13300,Deirdre Greer,Corporate,United States,Denver,Colorado,FUR-CH-10000422,Furniture,Global Highback Leather Tilter in Burgundy
+Chairs,West,585.552,CA-2017-132451,First Class,KF-16285,Karen Ferguson,Home Office,United States,San Diego,California,FUR-CH-10000454,Furniture,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back"
+Chairs,West,585.552,US-2017-141257,Standard Class,CS-11950,Carlos Soltero,Consumer,United States,Seattle,Washington,FUR-CH-10002758,Furniture,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back"
+Chairs,West,594.816,CA-2020-121853,Standard Class,DB-13660,Duane Benoit,Consumer,United States,Los Angeles,California,FUR-CH-10003973,Furniture,GuestStacker Chair with Chrome Finish Legs
+Chairs,West,601.536,CA-2018-149972,First Class,CD-12790,Cynthia Delaney,Home Office,United States,Los Angeles,California,FUR-CH-10004997,Furniture,Hon Every-Day Series Multi-Task Chairs
+Chairs,West,603.92,CA-2017-135608,Second Class,JK-15625,Jim Karlsson,Consumer,United States,Olympia,Washington,FUR-CH-10002602,Furniture,DMI Arturo Collection Mission-style Design Wood Chair
+Chairs,West,603.92,CA-2017-163419,Second Class,TZ-21580,Tracy Zic,Consumer,United States,Louisville,Colorado,FUR-CH-10000665,Furniture,"Global Airflow Leather Mesh Back Chair, Black"
+Chairs,West,603.92,US-2017-133130,Standard Class,TH-21100,Thea Hendricks,Consumer,United States,San Diego,California,FUR-CH-10002602,Furniture,DMI Arturo Collection Mission-style Design Wood Chair
+Chairs,West,603.92,US-2017-157385,First Class,SC-20095,Sanjit Chand,Consumer,United States,Los Angeles,California,FUR-CH-10000863,Furniture,Novimex Swivel Fabric Task Chair
+Chairs,West,614.272,CA-2020-142622,First Class,JK-15625,Jim Karlsson,Consumer,United States,Seattle,Washington,FUR-CH-10004289,Furniture,Global Super Steno Chair
+Chairs,West,638.2880000000001,CA-2019-142398,Standard Class,BP-11290,Beth Paige,Consumer,United States,Los Angeles,California,FUR-CH-10001545,Furniture,Hon Comfortask Task/Swivel Chairs
+Chairs,West,650.3520000000001,CA-2019-163328,Second Class,TP-21565,Tracy Poddar,Corporate,United States,Eugene,Oregon,FUR-CH-10000229,Furniture,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs
+Chairs,West,662.88,CA-2019-112109,Standard Class,JE-15715,Joe Elijah,Consumer,United States,Broomfield,Colorado,FUR-CH-10004287,Furniture,SAFCO Arco Folding Chair
+Chairs,West,674.3520000000001,CA-2017-126760,Standard Class,KM-16720,Kunst Miller,Consumer,United States,North Las Vegas,Nevada,FUR-CH-10003312,Furniture,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs
+Chairs,West,681.4080000000001,CA-2020-113530,Second Class,BC-11125,Becky Castell,Home Office,United States,San Francisco,California,FUR-CH-10002647,Furniture,"Situations Contoured Folding Chairs, 4/Set"
+Chairs,West,698.3520000000001,CA-2019-105081,Standard Class,JE-15715,Joe Elijah,Consumer,United States,Seattle,Washington,FUR-CH-10000847,Furniture,Global Executive Mid-Back Manager's Chair
+Chairs,West,700.152,CA-2018-113404,Same Day,EM-13810,Eleni McCrary,Corporate,United States,San Francisco,California,FUR-CH-10004086,Furniture,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs
+Chairs,West,717.72,CA-2017-117464,Second Class,NP-18325,Naresj Patel,Consumer,United States,San Francisco,California,FUR-CH-10000155,Furniture,Global Comet Stacking Armless Chair
+Chairs,West,717.72,US-2018-129007,First Class,KD-16615,Ken Dana,Corporate,United States,Anaheim,California,FUR-CH-10000155,Furniture,Global Comet Stacking Armless Chair
+Chairs,West,722.3520000000001,CA-2018-100146,Standard Class,CB-12535,Claudia Bergmann,Corporate,United States,Camarillo,California,FUR-CH-10004495,Furniture,"Global Leather and Oak Executive Chair, Black"
+Chairs,West,725.344,US-2017-144078,Standard Class,RB-19435,Richard Bierner,Consumer,United States,Los Angeles,California,FUR-CH-10002335,Furniture,Hon GuestStacker Chair
+Chairs,West,770.3520000000001,CA-2019-127138,Second Class,DK-13225,Dean Katz,Corporate,United States,San Francisco,California,FUR-CH-10003746,Furniture,Hon 4070 Series Pagoda Round Back Stacking Chairs
+Chairs,West,801.5680000000001,CA-2017-116932,Standard Class,ME-18010,Michelle Ellison,Corporate,United States,San Francisco,California,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter
+Chairs,West,801.5680000000001,CA-2019-133935,Standard Class,JW-15220,Jane Waco,Corporate,United States,San Diego,California,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter
+Chairs,West,801.5680000000001,US-2019-105578,Standard Class,MY-17380,Maribeth Yedwab,Corporate,United States,Parker,Colorado,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter
+Chairs,West,842.3520000000001,CA-2018-132486,Second Class,JF-15355,Jay Fein,Consumer,United States,San Diego,California,FUR-CH-10001854,Furniture,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat
+Chairs,West,842.3760000000001,CA-2020-128734,Standard Class,JL-15175,James Lanier,Home Office,United States,Chandler,Arizona,FUR-CH-10001394,Furniture,Global Leather Executive Chair
+Chairs,West,854.3520000000001,CA-2019-114727,Standard Class,LS-16945,Linda Southworth,Corporate,United States,Denver,Colorado,FUR-CH-10002331,Furniture,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms
+Chairs,West,883.84,CA-2018-123141,Standard Class,GZ-14470,Gary Zandusky,Consumer,United States,Rio Rancho,New Mexico,FUR-CH-10004287,Furniture,SAFCO Arco Folding Chair
+Chairs,West,883.84,CA-2018-135538,Standard Class,HR-14830,Harold Ryan,Corporate,United States,Gilbert,Arizona,FUR-CH-10004287,Furniture,SAFCO Arco Folding Chair
+Chairs,West,885.528,CA-2019-133935,Standard Class,JW-15220,Jane Waco,Corporate,United States,San Diego,California,FUR-CH-10002880,Furniture,"Global High-Back Leather Tilter, Burgundy"
+Chairs,West,892.224,CA-2018-161452,Standard Class,CA-11965,Carol Adams,Corporate,United States,Los Angeles,California,FUR-CH-10003973,Furniture,GuestStacker Chair with Chrome Finish Legs
+Chairs,West,892.224,CA-2020-117212,Second Class,BT-11530,Bradley Talbott,Home Office,United States,Los Angeles,California,FUR-CH-10003973,Furniture,GuestStacker Chair with Chrome Finish Legs
+Chairs,West,899.1360000000001,US-2020-155425,First Class,AB-10600,Ann Blume,Corporate,United States,Tucson,Arizona,FUR-CH-10003312,Furniture,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs
+Chairs,West,906.6800000000001,US-2020-112347,Standard Class,BS-11380,Bill Stewart,Corporate,United States,Denver,Colorado,FUR-CH-10002335,Furniture,Hon GuestStacker Chair
+Chairs,West,915.1360000000001,CA-2019-101672,Standard Class,DB-12910,Daniel Byrd,Home Office,United States,Lake Forest,California,FUR-CH-10004063,Furniture,Global Deluxe High-Back Manager's Chair
+Chairs,West,915.1360000000001,US-2018-139675,Second Class,NF-18595,Nicole Fjeld,Home Office,United States,Chico,California,FUR-CH-10004063,Furniture,Global Deluxe High-Back Manager's Chair
+Chairs,West,933.5360000000001,CA-2019-112669,Same Day,KT-16465,Kean Takahito,Consumer,United States,Glendale,Arizona,FUR-CH-10004086,Furniture,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs
+Chairs,West,963.1360000000001,CA-2020-131828,Second Class,CS-11845,Cari Sayre,Corporate,United States,Seattle,Washington,FUR-CH-10004495,Furniture,"Global Leather and Oak Executive Chair, Black"
+Chairs,West,975.92,CA-2017-107818,Standard Class,MC-17275,Marc Crier,Consumer,United States,Pasco,Washington,FUR-CH-10000454,Furniture,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back"
+Chairs,West,1013.4879999999999,US-2019-167339,Second Class,TD-20995,Tamara Dahlen,Consumer,United States,San Diego,California,FUR-CH-10000785,Furniture,Global Ergonomic Managers Chair
+Chairs,West,1121.568,CA-2019-136406,Second Class,BD-11320,Bill Donatelli,Consumer,United States,San Francisco,California,FUR-CH-10002024,Furniture,HON 5400 Series Task Chairs for Big and Tall
+Chairs,West,1159.056,CA-2020-102379,Standard Class,BB-11545,Brenda Bowman,Corporate,United States,Oakland,California,FUR-CH-10004983,Furniture,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms
+Chairs,West,1212.96,CA-2020-105214,First Class,TS-21610,Troy Staebel,Consumer,United States,San Francisco,California,FUR-CH-10000015,Furniture,Hon Multipurpose Stacking Arm Chairs
+Chairs,West,1325.76,CA-2017-154893,Standard Class,GM-14440,Gary McGarr,Consumer,United States,San Diego,California,FUR-CH-10004287,Furniture,SAFCO Arco Folding Chair
+Chairs,West,1325.76,CA-2019-149279,Standard Class,CL-12700,Craig Leslie,Home Office,United States,Colorado Springs,Colorado,FUR-CH-10004287,Furniture,SAFCO Arco Folding Chair
+Chairs,West,1348.7040000000002,CA-2018-113404,Same Day,EM-13810,Eleni McCrary,Corporate,United States,San Francisco,California,FUR-CH-10003312,Furniture,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs
+Chairs,West,1352.0320000000002,CA-2019-138968,First Class,FC-14335,Fred Chung,Corporate,United States,San Francisco,California,FUR-CH-10000309,Furniture,Global Comet Stacking Arm Chair
+Chairs,West,1403.9200000000003,CA-2017-124247,Standard Class,SH-20635,Stefanie Holloman,Corporate,United States,Sacramento,California,FUR-CH-10001854,Furniture,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat
+Chairs,West,1403.9200000000003,CA-2019-146913,Standard Class,SF-20965,Sylvia Foulston,Corporate,United States,San Francisco,California,FUR-CH-10001854,Furniture,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat
+Chairs,West,1487.04,CA-2017-125731,Standard Class,CL-12565,Clay Ludtke,Consumer,United States,Gresham,Oregon,FUR-CH-10003973,Furniture,GuestStacker Chair with Chrome Finish Legs
+Chairs,West,1487.04,CA-2017-166954,Standard Class,BT-11305,Beth Thompson,Home Office,United States,San Gabriel,California,FUR-CH-10003973,Furniture,GuestStacker Chair with Chrome Finish Legs
+Chairs,West,1603.1360000000002,CA-2019-128594,First Class,DJ-13510,Don Jones,Corporate,United States,San Diego,California,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter
+Chairs,West,1603.1360000000002,CA-2019-152247,Standard Class,MA-17995,Michelle Arnett,Home Office,United States,Cheyenne,Wyoming,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter
+Chairs,West,1684.7520000000002,US-2019-163881,Standard Class,SP-20860,Sung Pak,Corporate,United States,Los Angeles,California,FUR-CH-10001394,Furniture,Global Leather Executive Chair
+Chairs,West,2003.9200000000003,CA-2018-137113,Second Class,TW-21025,Tamara Willingham,Home Office,United States,Seattle,Washington,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter
+Chairs,West,2054.2720000000004,CA-2020-149559,Same Day,KF-16285,Karen Ferguson,Home Office,United States,Long Beach,California,FUR-CH-10002320,Furniture,Hon Pagoda Stacking Chairs
+Chairs,West,2404.704,CA-2020-122490,Standard Class,TT-21070,Ted Trevino,Consumer,United States,Seattle,Washington,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter
+Chairs,West,2676.672,CA-2018-111038,Standard Class,LC-16960,Lindsay Castell,Home Office,United States,San Diego,California,FUR-CH-10003973,Furniture,GuestStacker Chair with Chrome Finish Legs
+Chairs,West,2803.92,CA-2018-164777,First Class,SC-20305,Sean Christensen,Consumer,United States,Los Angeles,California,FUR-CH-10002024,Furniture,HON 5400 Series Task Chairs for Big and Tall
