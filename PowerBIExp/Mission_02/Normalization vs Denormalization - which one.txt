@@ -1,0 +1,25 @@
+Dimensional Model (star schema):
+
+Dimensions - aka Look up tables - (The points on the star)
+
+Fact table - Middle of the star
+
+
+Dimensions (example):
+
+What: Product (what was sold)
+
+When: Date (when it was sold)
+
+Who: Reseller (who sold it)
+
+Who: employer (who is assoicated)
+
+Where: (Sales) Territory
+
+
+Fact table: Stores transactions. Events that happened along the time
+
+
+Note: we have to denormalize our database in order to find the right balance and build dimensions
+

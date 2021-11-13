@@ -1,0 +1,39 @@
+Data model - bunch of tables connected through relationships
+
+Two types of tables: Dimension tables (lookup tables) and Fact tables (data tables)
+
+See word document of same name for side by side comparison
+
+Dimensions: Business Entities - Things in our company such as customer, product, supplier, accounts, etc.
+
+Fact Table: Transactions - stores events/transactions along the time
+
+Dimensions: Structures - a unique column, a primary key in the databse or a surrogate key when talking about data warehousing
+	Therefore, I can't have two rows with the same key in the dimensions. Always one row per key.
+
+Dimensions: Descriptions, attributes - The name of the customer, the name of the product, the brand, color, accounts, etc.
+All the descriptions, all the attributes for the dimensions (and only in dimensions not fact tables)
+
+Fact Table: Foreign key - keys from the dimensions and only the keys from dimensions (meaning no descriptions). Plus a date for the event and numerical numbers (values)
+
+Dimensions: Size - Dimensions are usually small. They can have a lot of columns but generally short --> not tall (not many rows)
+
+Fact table: Size - Opposite of Dimensions --> Tall/big (lots of rows)
+
+Dimensions: Objective - Act as a filter for Fact Table values --> They filter the facts, they describe the fact, they describe the event, they group the facts
+
+Fact table: Objective - Aggregation --> Sum, count, average, etc.
+
+
+Different type of schemas:
+
+Snowflake --> Example: Denormalize the category to the product and denormalize the subcategory to the products meaning the three table can be joined into one single table.
+	Why? Subcategory is an attribute of the product. Geography is tricky because it could be the location of the customer, the location of the store, the locations of the supplier and etc.
+	This is why the geography should be linked to another entity rather than straight to the fact table. 
+
+Star - Preferred schema --> Dimensions are connected to the fact tables and there is no dimension connected to other dimensions 
+
+	Note: Always try to build star schemas. Safer to build calculations, build dax code (dax will be easier)
+
+
+Mission 02: We are going to normalize our model by splitting excel file (one big table) into dimensions and fact tables
