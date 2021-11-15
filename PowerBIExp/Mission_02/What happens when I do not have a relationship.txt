@@ -1,0 +1,2 @@
+When building a new visual --> place columns from the dimensions into the axis. Tables do not have axis so if change
+to a matrix it has rows and the columns so columns from dimensions because they are the columns that are going to filter the values

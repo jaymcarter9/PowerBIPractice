@@ -1,0 +1,3 @@
+Granularity - identifies the level of detail for a table
+
+The dimensions identify the granularity of the fact tables

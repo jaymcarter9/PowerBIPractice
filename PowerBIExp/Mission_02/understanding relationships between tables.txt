@@ -1,0 +1,37 @@
+Modeling - Relationship lines --> example 1 to * ... * means many so translated is 1 to many
+
+1 means a unique row for the dimension (ex: product key)
+
+What the arrow direction means:
+
+Any filter that I apply on the product table or on the customer table, is going to flow across the relationship
+
+Example: A filter applied on the category name is going to flow across the relationship
+
+1 to many and many to 1 are the same thing as depends on the order the tables are placed- terminology is defined as cardinality
+
+Different types of cardinality:
+
+Many to one --> *:1
+One to one --> 1:1
+One to many --> 1:*
+Many to many --> *:*
+
+One to one is unusual
+
+Many to many is when you create a relationship between two tables and neither of them have a unique column (repeating values like region)
+
+
+Recommendation: Until you know how to use many to many relationships... don't use it
+
+Note: The direction (relationship) should always be single (single direction) direction to (-->) fact
+
+	There is another direction which is for both sides (avoid)
+
+	The single and double (both) arrow are classified under cross filter direction
+
+Data Model example: see word document of same name
+
+
+
+
