@@ -1,0 +1,1 @@
+Snowflake schemas are not as good as star schemas in terms of performance

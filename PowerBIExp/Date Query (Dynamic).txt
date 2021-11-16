@@ -1,0 +1,31 @@
+Dynamic Date Query Template:
+
+Date Table:
+
+Advanced editor:
+
+let
+    MinDateSales = List.Min(Sales[OrderDate]),
+    MaxDateSales = List.Max(Sales[DueDate]),
+    MinYear = Date.Year(MinDateSales),
+    MaxYear = Date.Year(MaxDateSales),
+    MinDate = #date(MinYear, 01, 01),
+    MaxDate = #date(MaxYear, 12, 31),
+    Duration = Duration.Days(MaxDate - MinDate) +1,
+    //Original Steps: 
+    Source = List.Dates(MinDate, Duration, #duration(1, 0, 0, 0)),
+    #"Converted to Table" = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+    #"Renamed Columns" = Table.RenameColumns(#"Converted to Table",{{"Column1", "Date"}}),
+    #"Changed Type" = Table.TransformColumnTypes(#"Renamed Columns",{{"Date", type date}}),
+    #"Inserted Year" = Table.AddColumn(#"Changed Type", "Year", each Date.Year([Date]), Int64.Type),
+    #"Inserted Month" = Table.AddColumn(#"Inserted Year", "Month", each Date.Month([Date]), Int64.Type),
+    #"Inserted Month Name" = Table.AddColumn(#"Inserted Month", "Month Name", each Date.MonthName([Date]), type text),
+    #"Inserted Day" = Table.AddColumn(#"Inserted Month Name", "Day", each Date.Day([Date]), Int64.Type),
+    #"Inserted Day of Week" = Table.AddColumn(#"Inserted Day", "Day of Week", each Date.DayOfWeek([Date]), Int64.Type),
+    #"Inserted Day Name" = Table.AddColumn(#"Inserted Day of Week", "Day Name", each Date.DayOfWeekName([Date]), type text),
+    #"Merged Queries" = Table.NestedJoin(#"Inserted Day Name", {"Date"}, Holidays, {"HolidayDate"}, "Holidays", JoinKind.LeftOuter),
+    #"Expanded Holidays" = Table.ExpandTableColumn(#"Merged Queries", "Holidays", {"Holiday"}, {"Holidays.Holiday"}),
+    #"Added Conditional Column" = Table.AddColumn(#"Expanded Holidays", "Working Day", each if [Day Name] = "Sunday" then "No" else if [Day Name] = "Saturday" then "No" else if [Holidays.Holiday] <> null then "No" else "Yes"),
+    #"Changed Type1" = Table.TransformColumnTypes(#"Added Conditional Column",{{"Working Day", type text}})
+in
+    #"Changed Type1"
