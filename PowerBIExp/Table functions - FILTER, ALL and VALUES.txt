@@ -1,0 +1,5 @@
+COUNTROWS will count the rows in a table.
+COUNT will count the number of values within a column.
+DISTINCTCOUNT will count the number of distinct values within a column.
+VALUES will return the unique values for a column.
+COUNT (VALUES (Table [Column]) is the same as DISTINCTCOUNT. 

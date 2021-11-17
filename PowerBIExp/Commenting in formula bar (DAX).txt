@@ -1,0 +1,2 @@
+//To comment more than one line, use CTRL + KC
+//To uncomment use CTRL + UC
