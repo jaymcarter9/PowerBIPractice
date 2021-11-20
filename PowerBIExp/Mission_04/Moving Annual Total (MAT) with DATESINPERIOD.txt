@@ -1,0 +1,3 @@
+For cumulative sums --> use DATESINPERIOD
+
+For going back only --> use DATEADD
