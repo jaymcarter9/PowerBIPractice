@@ -1,0 +1,21 @@
+Leo's Recommendations:
+
+1. Be concerned about design.
+2. Identify your audience. Who are the people who will consume your dashboard? Different audiences will want to see different information.
+3. Draw a sketch
+4. Choose the right theme, colors, pallette. Be consistent.
+5. Backgrounds - The background will provide the wow effect
+6. Use icons/images. Website to download for free. Icons and images add context
+7. Align everythign correctly
+8. Use the right visuals. Example: If i want to compare categories with other categories - what is the best visual. And for comparisons over time?
+9. Use/understand all features inside Power BI
+
+
+Do's Don'ts Graphic:
+Dos: Show in context --> rank data in a relevant way so patterns and outliers become visible.
+Don't: Misleading design --> a truncated axis in a column or bar-chart distorts the relative size of the columns
+Do: Target or benchmark --> Enrich your chart with target or benchmarks, to give the values more meaning.
+
+
+Logomakr.com
+Remixicon.com
